@@ -39,8 +39,8 @@ img {
 .hero {
   background-color: #ffef86;
   width: 100%;
-  padding-top: 150px;
-  border: #000 solid 3px;
+  padding-top: 9.375rem;
+  border: #000 solid .1875rem;
   padding-bottom: 3.125rem;
 }
 
@@ -51,11 +51,11 @@ img {
 }
 
 .hero .hero-content .hero-btn {
-  padding: 8px 16px;
+  padding: .5rem 1rem;
   background-color: #000;
   color: #fff;
   transform: rotate(-2deg);
-  margin-bottom: 24px;
+  margin-bottom: 1.5rem;
   position: relative;
   font-weight: 700;
   font-size: 14px;
@@ -66,7 +66,7 @@ img {
   font-weight: 900;
   font-size: 72px;
   line-height: 90px;
-  margin-bottom: 32px;
+  margin-bottom: 2rem;
 }
 
 .hero .hero-content h1 span {
@@ -88,8 +88,8 @@ img {
 
 .hero-txt {
   background-color: #fff;
-  padding: 16px;
-  margin-bottom: 32px;
+  padding: 1rem;
+  margin-bottom: 2rem;
   border: #000 solid 1px;
   box-shadow: 3px 3px #000;
   font-weight: 500;
@@ -98,10 +98,10 @@ img {
 }
 
 .hero .hero-content button {
-  padding: 16px 32px;
+  padding: 1rem 2rem;
   border: 4px solid #000;
-  margin-right: 10px;
-  margin-bottom: 20px;
+  margin-right: .625rem;
+  margin-bottom: 1.25rem;
   font-size: 18px;
   font-weight: 700;
   line-height: 24px;
@@ -111,7 +111,7 @@ img {
 }
 
 .hero-content i {
-  margin-right: 5px;
+  margin-right: .3125rem;
 }
 
 .hero .hero-content button:hover {
@@ -131,13 +131,13 @@ img {
 
 .hero-image {
   width: 100%;
-  margin-block: 40px;
+  margin-block: 2.5rem;
   position: relative;
 }
 
 .hero-image .hero-img-hover {
   width: 100%;
-  height: 400px;
+  height: 25rem;
   overflow: hidden;
   box-shadow: 5px 5px 0 #000;
   /* transform: rotate(2deg); */
@@ -163,7 +163,7 @@ img {
   right: -16px;
   background: #e64341;
   color: white;
-  padding: 8px 16px;
+  padding: .5rem 1rem;
   font-weight: bold;
   transform: rotate(20deg);
   border: 3px solid black;
@@ -194,9 +194,9 @@ img {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  padding: 20px 20px;
+  padding: 1.25rem 1.25rem;
   border: #000 solid 2px;
-  border-radius: 20px;
+  border-radius: 1.25rem;
 }
 
 .nav .inner #the-ux {
@@ -222,7 +222,7 @@ img {
 .nav .inner li {
   font-size: 14px;
   font-weight: 600;
-  margin-inline: 10px;
+  margin-inline: .625rem;
 }
 
 .nav .inner li:hover {
@@ -230,7 +230,7 @@ img {
 }
 
 .nav .inner img {
-  width: 15px;
+  width: .9375rem;
 }
 
 .nav .inner .button {
@@ -238,7 +238,7 @@ img {
   font-weight: 700;
   background-color: #f8d36f;
   border: #000 solid 1px;
-  border-radius: 20px;
+  border-radius: 1.25rem;
   transition: all 0.3s;
   display: none;
 }
@@ -249,14 +249,14 @@ img {
 }
 
 .nav .inner .button a {
-  padding: 8px 16px;
+  padding: .5rem 1rem;
 }
 
 .menu-icon {
   background-color: #fff;
   border: 2px solid #000;
   box-shadow: 5px 5px 0 #000;
-  padding: 10px;
+  padding: .625rem;
   border-radius: 5px;
   transition: all 0.2s;
 }
@@ -282,7 +282,7 @@ img {
   width: 30%;
   height: 100vh;
   background: #eee;
-  padding: 20px;
+  padding: 1.25rem;
   transition: 0.4s;
   z-index: 1000;
 }
@@ -297,7 +297,7 @@ img {
   align-items: center;
   border-top: 2px solid black;
   border-bottom: 2px solid black;
-  padding: 15px 0;
+  padding: .9375rem 0;
 }
 
 .menu-header h2 {
@@ -308,7 +308,7 @@ img {
 .menu-header a {
   background-color: #fff;
   border: 2px solid #000;
-  padding: 5px;
+  padding: .3125rem;
 }
 
 .menu-header a:hover {
