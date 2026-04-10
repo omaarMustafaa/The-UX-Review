@@ -20,6 +20,12 @@
     width: 20%;
   }
 
+  .hero .hero-content h1 {
+    font-size: 72px;
+  }
+  .nav .inner #the-ux {
+    font-size: 30px;
+  }
   .foot-item {
     display: flex;
     flex-wrap: wrap;
@@ -37,6 +43,15 @@
 
   .left-section .head-section span {
     display: block;
+  }
+  .sid {
+    flex-direction: row;
+  }
+  .Categories .inner {
+    padding-inline: 10px;
+  }
+  .Newsletter .inner {
+    padding-left: 50px;
   }
 }
 
